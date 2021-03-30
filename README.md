@@ -1,4 +1,5 @@
 # Lumin
+![banner](https://github.com/sirreajohn/Lumin/blob/main/banner.png)
 A basic profiling script / recommendation engine for Machine learning algorithms
 
 ## description
@@ -22,3 +23,36 @@ xgboost==1.2.1
 ```
 streamlit run optima.py
 ```
+as of now, only two functionalities exist 
+ - classification 
+ - regression
+I plan on adding more in future.
+
+
+### Classification
+![class](https://github.com/sirreajohn/Lumin/blob/main/class.gif)
+
+### Regression
+![reg](https://github.com/sirreajohn/Lumin/blob/main/reg.gif)
+
+## working
+- refer to this yee-yee flowchart for an idea
+
+![mlflow1](https://github.com/sirreajohn/Lumin/blob/main/autoML%20workflow.png)
+![mlflow2](https://github.com/sirreajohn/Lumin/blob/main/model_fit_chart.png)
+
+## TO-DO
+- [ ] make script more elegant
+- [ ] host it somewhere
+- [ ] add more functionality (neural networks maybe!)
+
+<!-- CONTACT -->
+## Contact
+
+Mahesh Patapalli - sirreajohn@gmail.com
+
+
+[linkedin](https://www.linkedin.com/in/mahesh-patapalli-bba1aa191/) - [github](https://github.com/sirreajohn)
+
+
+Project Link: [https://github.com/sirreajohn/Lumin](https://github.com/sirreajohn/Lumin)
