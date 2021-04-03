@@ -170,7 +170,7 @@ def compute_class(data,target):
         model.fit(x_train,y_train)
         y_pred = model.predict(x_test)
         metric_dict[name] = {"precision":round(precision_score(y_test,y_pred,pos_label=y_pred[0],average = "mirco"),2),
-                             "recall":round(recall_score(y_test,y_pred,pos_label=y_pred[0]),average = "micro",2),
+                             "recall":round(recall_score(y_test,y_pred,pos_label=y_pred[0],average = "micro"),2),
                              "f1_score":round(f1_score(y_test,y_pred,average = 'micro'),2),
                              "accuracy":accuracy_score(y_test,y_pred),
                              "confusion":confusion_matrix(y_test,y_pred),
