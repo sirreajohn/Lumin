@@ -6,3 +6,4 @@ numpy==1.19.3
 seaborn==0.10.1
 streamlit==0.75.0
 xgboost==1.2.1
+scikit-learn
