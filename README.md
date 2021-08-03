@@ -2,6 +2,10 @@
 ![banner](https://github.com/sirreajohn/Lumin/blob/main/banner.png)
 A basic profiling script / recommendation engine for Machine learning algorithms
 
+**DEPLOYED AT [streamlit](https://share.streamlit.io/sirreajohn/lumin/main/optima.py)**
+## Contributers
+- [Mahesh Patapalli(me!)](https://github.com/sirreajohn)
+- [Siddhant Sehgal](https://github.com/SIDDHANTSEHGAL1198)
 ## description
 - ever feel lazy and incomplete while writing code! or maybe have a problem choosing correct ML algorithm for your data. this is where Lumin comes in.
 
@@ -43,7 +47,7 @@ I plan on adding more in future.
 
 ## TO-DO
 - [ ] make script more elegant
-- [ ] host it somewhere
+- [x] host it somewhere
 - [ ] add more functionality (neural networks maybe!)
 
 <!-- CONTACT -->
